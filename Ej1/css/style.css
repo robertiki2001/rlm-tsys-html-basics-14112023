@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@700&family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@700&family=Noto+Sans+Display:ital,wght@0,200;0,300;0,400;1,200;1,400&family=Roboto:wght@100&display=swap');
+
+body {
+    background-color: rgb(218, 240, 247);
+    color: rgb(43, 40, 63);
+    font-family: 'Kalam', cursive;
+    font-size: 19px;
+    margin-left: 25px;
+}
+
+#font-style{
+    font-family: 'Noto Sans Display', sans-serif;
+    font-size: 19px;
+}
